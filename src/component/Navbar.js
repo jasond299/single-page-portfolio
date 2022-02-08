@@ -8,9 +8,9 @@ const flex = {
   alignItems: "center",
   justifyContent: "center",
   position: "relative",
-  top: "50%",
   height: "100vh",
   width: "20%",
+  minWidth: "20%",
   gap: "10px",
   backgroundColor: "green",
 };
